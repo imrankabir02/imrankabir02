@@ -18,12 +18,16 @@ Here are some ideas to get you started:
 
 <!-- ### MD. IMRAN KABIR's GitHub Stats -->
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imrankabir02&show_icons=true&theme=vue&hide_border=true)](https://github.com/imrankabir02)
+<div align="center">
+  <h2>MD. ABDUL LOTIF's GitHub Stats</h2>
+  <a href="https://github.com/imrankabir02">
+    <img src="https://github-readme-stats.vercel.app/api?username=imrankabir02&show_icons=true&theme=vue&hide_border=true" />
+  </a>
+  <a href="https://github.com/imrankabir02">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrankabir02&layout=compact&theme=vue&hide_border=true" />
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=imrankabir02&theme=vue&hide_border=true" />
+  </a>
+</div>
 
-### Most Used Languages
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imrankabir02&layout=compact&theme=vue&hide_border=true)](https://github.com/imrankabir02)
-
-### Contribution Streak
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imrankabir02&theme=vue&hide_border=true)](https://git.io/streak-stats)
