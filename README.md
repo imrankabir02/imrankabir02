@@ -15,13 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <!-- ### MD. IMRAN KABIR's GitHub Stats -->
 
 <div align="center">
-  <h2>MD. ABDUL LOTIF's GitHub Stats</h2>
   <a href="https://github.com/imrankabir02">
-    <img src="https://github-readme-stats.vercel.app/api?username=imrankabir02&show_icons=true&theme=vue&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=imrankabir02&show_icons=true&theme=vue&hide_border=truehide=issues,prs" />
   </a>
   <a href="https://github.com/imrankabir02">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrankabir02&layout=compact&theme=vue&hide_border=true" />
@@ -30,4 +28,3 @@ Here are some ideas to get you started:
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=imrankabir02&theme=vue&hide_border=true" />
   </a>
 </div>
-
