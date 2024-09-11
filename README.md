@@ -1,4 +1,3 @@
-
 <!-- ## Hi there 👋 -->
 
 <!--
@@ -27,8 +26,7 @@ Here are some ideas to get you started:
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrankabir02&layout=compact&theme=darcula&hide_border=true&bg_color=00000000" style="max-width: 100%;"/>
     </a>
     <a href="https://git.io/streak-stats">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=imrankabir02&theme=darcula&hide_border=true&bg_color=00000000" style="max-width: 100%;"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=imrankabir02&theme=darcula&hide_border=true&background=FFFFFF00" style="max-width: 100%;"/>
     </a>
   </div>
 </div>
-
