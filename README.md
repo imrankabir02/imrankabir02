@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <div align="center">
   <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
     <a href="https://github.com/imrankabir02">
-      <img src="https://github-readme-stats.vercel.app/api?username=imrankabir02&show_icons=true&theme=vue&hide_border=true&hide=issues,prs" style="max-width: 100%;"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=imrankabir02&show_icons=true&theme=vue&hide_border=true&hide=prs" style="max-width: 100%;"/>
     </a>
     <a href="https://github.com/imrankabir02">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrankabir02&layout=compact&theme=vue&hide_border=true" style="max-width: 100%;"/>
