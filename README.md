@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 <div align="center">
   <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
     <a href="https://github.com/imrankabir02">
-      <img src="https://github-readme-stats.vercel.app/api?username=imrankabir02&show_icons=true&theme=vue&hide_border=true&hide=prs" style="max-width: 100%;"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=imrankabir02&show_icons=true&theme=dark&hide_border=true&hide=prs" style="max-width: 100%;"/>
     </a>
     <a href="https://github.com/imrankabir02">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrankabir02&layout=compact&theme=vue&hide_border=true" style="max-width: 100%;"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrankabir02&layout=compact&theme=dark&hide_border=true" style="max-width: 100%;"/>
     </a>
     <a href="https://git.io/streak-stats">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=imrankabir02&theme=vue&hide_border=true" style="max-width: 100%;"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=imrankabir02&theme=dark&hide_border=true" style="max-width: 100%;"/>
     </a>
   </div>
 </div>
