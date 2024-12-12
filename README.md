@@ -23,12 +23,12 @@ Here are some ideas to get you started:
     <a href="https://github.com/imrankabir02">
       <img src="https://github-readme-stats.vercel.app/api?username=imrankabir02&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" style="max-width: 100%;"/>
     </a>
-    <a href="https://github.com/imrankabir02">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrankabir02&layout=compact&theme=transparent&hide_border=true&bg_color=00000000" style="max-width: 100%;"/>
-    </a>
 <!--     <a href="https://github.com/imrankabir02">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrankabir02&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&langs_count=10" style="max-width: 100%;"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrankabir02&layout=compact&theme=transparent&hide_border=true&bg_color=00000000" style="max-width: 100%;"/>
     </a> -->
+    <a href="https://github.com/imrankabir02">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrankabir02&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&langs_count=10" style="max-width: 100%;"/>
+    </a>
     <a href="https://git.io/streak-stats">
       <img src="https://streak-stats.demolab.com?user=imrankabir02&theme=transparent&hide_border=true&exclude_days=Fri" alt="GitHub Streak" />
     </a>
