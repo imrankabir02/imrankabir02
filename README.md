@@ -34,6 +34,6 @@ Here are some ideas to get you started:
     </a>
   </div>
   <a href="https://wakatime.com/@imrankabir">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@imrankabir&theme=transparent&hide_border=true&bg_color=00000000&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@imrankabir02&theme=transparent&hide_border=true&bg_color=00000000&layout=compact" />
   </a>
 </div>
