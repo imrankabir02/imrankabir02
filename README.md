@@ -33,5 +33,7 @@ Here are some ideas to get you started:
       <img src="https://streak-stats.demolab.com?user=imrankabir02&theme=transparent&hide_border=true&exclude_days=Fri" alt="GitHub Streak" />
     </a>
   </div>
+  <a href="https://wakatime.com/@imrankabir">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@imrankabir&theme=transparent&hide_border=true&bg_color=00000000&layout=compact" />
+  </a>
 </div>
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imrankabir02)](https://github.com/anuraghazra/github-readme-stats)
