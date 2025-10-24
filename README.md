@@ -34,3 +34,4 @@ Here are some ideas to get you started:
     </a>
   </div>
 </div>
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imrankabir02)](https://github.com/anuraghazra/github-readme-stats)
