@@ -119,6 +119,49 @@ Managing IT infrastructure, Linux-based systems, and production stability within
 
 ---
 
+## 🧩 Repository Landscape (All Public Repositories)
+
+To reflect the full breadth of my work, here is a grouped summary of all active/public repositories:
+
+### Production & Full-Stack Applications
+- [book-store-MERN](https://github.com/imrankabir02/book-store-MERN) — MERN-based bookstore application
+- [eShop](https://github.com/imrankabir02/eShop) — web programming project for e-commerce fundamentals
+- [mess-system](https://github.com/imrankabir02/mess-system) — Laravel mess management system with invitations and roles
+- [expense-manager](https://github.com/imrankabir02/expense-manager) — expense tracking web app
+- [smoke-tracker](https://github.com/imrankabir02/smoke-tracker) — behavior tracking and analytics platform
+- [bloodlagbe](https://github.com/imrankabir02/bloodlagbe) — emergency blood request/donation platform
+- [task-manager](https://github.com/imrankabir02/task-manager) — Django REST + React TypeScript task management system
+- [find-doctor](https://github.com/imrankabir02/find-doctor) — TypeScript-based doctor discovery application
+
+### Backend, Realtime & API-Oriented Work
+- [expensetrackerbot](https://github.com/imrankabir02/expensetrackerbot) — Telegram expense bot with reporting and exports
+- [geo-spatial-queries](https://github.com/imrankabir02/geo-spatial-queries) — geospatial query experiments and backend patterns
+- [PermissionHandler](https://github.com/imrankabir02/PermissionHandler) — access/permission handling practice in PHP
+- [ImportExport](https://github.com/imrankabir02/ImportExport) — data import/export utilities
+- [Socket.IO](https://github.com/imrankabir02/Socket.IO) — realtime communication experiments
+- [VotingApp](https://github.com/imrankabir02/VotingApp) — backend-driven voting flow implementation
+- [LiveChat](https://github.com/imrankabir02/LiveChat) — chat application prototype
+
+### Portfolio, Branding & Web Presence
+- [imrankabir02](https://github.com/imrankabir02/imrankabir02) — this profile repository
+- [portfolio](https://github.com/imrankabir02/portfolio) — main portfolio website
+- [imrankabir02.github.io](https://github.com/imrankabir02/imrankabir02.github.io) — GitHub Pages profile site
+- [react-portfolio](https://github.com/imrankabir02/react-portfolio) — React portfolio iteration
+- [shams-portfolio](https://github.com/imrankabir02/shams-portfolio) — additional portfolio implementation
+- [unicorn-portfolio-repository](https://github.com/imrankabir02/unicorn-portfolio-repository) — portfolio-related project baseline
+
+### Learning, Practice & Problem Solving
+- [DSA-Practice](https://github.com/imrankabir02/DSA-Practice) — algorithm and data-structure practice
+- [Java-practice](https://github.com/imrankabir02/Java-practice) — Java language/problem-solving practice
+- [CalenderProject](https://github.com/imrankabir02/CalenderProject) — C++ calendar project
+- [top37](https://github.com/imrankabir02/top37) — Python practice repository
+- [test](https://github.com/imrankabir02/test) — Python testing/sandbox repo
+- [freshfood](https://github.com/imrankabir02/freshfood) — JavaScript frontend practice
+- [LearningHTML](https://github.com/imrankabir02/LearningHTML) — HTML fundamentals practice
+- [CSS](https://github.com/imrankabir02/CSS) — CSS/HTML styling practice
+
+---
+
 ## 🎓 Education
 
 **B.Sc in Computer Science & Engineering**  
