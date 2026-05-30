@@ -1,5 +1,5 @@
 ## Md. Imran Kabir
-### Software Engineer | Product-Focused Full-Stack Engineer
+### Product-Focused Full-Stack Engineer
 
 I build scalable, user-focused software products across web, backend, and automation domains.  
 My work spans modern frontend engineering, API-driven backend systems, and practical product delivery from idea to deployment.
