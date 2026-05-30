@@ -1,31 +1,37 @@
-<!-- ## Hi there 👋 -->
+## Md. Imran Kabir
+### Software Engineer | Full-Stack & Product-Focused Developer
 
-<!--
-**imrankabir02/imrankabir02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build scalable, user-focused software products across web, backend, and automation domains.  
+My work spans modern frontend engineering, API-driven backend systems, and practical product delivery from idea to deployment.
 
-Here are some ideas to get you started:
+### Core Strengths
+- Designing and developing end-to-end web applications
+- Building maintainable backend APIs and service integrations
+- Shipping clean, responsive, and accessible frontend interfaces
+- Turning product requirements into reliable engineering solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+**Languages:** JavaScript, TypeScript, Python, PHP, Kotlin  
+**Frontend:** React, Tailwind CSS, HTML5, CSS3  
+**Backend:** Node.js, Django REST Framework, Laravel  
+**Databases & Tools:** PostgreSQL, MySQL, Git, REST APIs, Vercel
 
-<!-- ### MD. IMRAN KABIR's GitHub Stats -->
+### What I Work On
+- Full-stack SaaS and productivity applications  
+- Automation-driven tools and bots  
+- Real-time and interactive web experiences  
+- Portfolio-grade product engineering and deployment
+
+### Open to Collaborate On
+- Full-stack product development  
+- Backend/API architecture and implementation  
+- React + TypeScript based applications
 
 <div align="center">
   <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
     <a href="https://github.com/imrankabir02">
       <img src="https://github-readme-stats.vercel.app/api?username=imrankabir02&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" style="max-width: 100%;"/>
     </a>
-<!--     <a href="https://github.com/imrankabir02">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrankabir02&layout=compact&theme=transparent&hide_border=true&bg_color=00000000" style="max-width: 100%;"/>
-    </a> -->
     <a href="https://github.com/imrankabir02">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrankabir02&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&langs_count=10" style="max-width: 100%;"/>
     </a>
@@ -34,9 +40,3 @@ Here are some ideas to get you started:
     </a>
   </div>
 </div>
-<!-- <div align="center">
-  <a href="https://wakatime.com/@imrankabir02">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=imrankabir02&theme=transparent&hide_border=true&bg_color=00000000&layout=compact" />
-  </a>
-</div> -->
-
