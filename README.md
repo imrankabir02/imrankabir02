@@ -1,5 +1,5 @@
 ## Md. Imran Kabir
-### Software Engineer | Full-Stack & Product-Focused Developer
+### Software Engineer | Product-Focused Full-Stack Engineer
 
 I build scalable, user-focused software products across web, backend, and automation domains.  
 My work spans modern frontend engineering, API-driven backend systems, and practical product delivery from idea to deployment.
@@ -14,7 +14,9 @@ My work spans modern frontend engineering, API-driven backend systems, and pract
 **Languages:** JavaScript, TypeScript, Python, PHP, Kotlin  
 **Frontend:** React, Tailwind CSS, HTML5, CSS3  
 **Backend:** Node.js, Django REST Framework, Laravel  
-**Databases & Tools:** PostgreSQL, MySQL, Git, REST APIs, Vercel
+**Databases:** PostgreSQL, MySQL  
+**Tools & Platforms:** Git, Vercel  
+**API Style:** REST APIs
 
 ### What I Work On
 - Full-stack SaaS and productivity applications  
