@@ -1,4 +1,4 @@
-## Md. Imran Kabir
+## Mridha Imran Kabir
 ### 🚀 Product-Focused Full-Stack Engineer
 
 **Building scalable web products with clean architecture, fast delivery, and modern engineering practices.**
@@ -14,10 +14,10 @@ Experienced full-stack engineer specializing in end-to-end product development. 
 ## 🛠️ Technical Expertise
 
 ### Languages & Core Technologies
-![JavaScript](https://img.shields.io/badge/JavaScript-111?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-111?style=flat&logo=typescript)
 ![Python](https://img.shields.io/badge/Python-111?style=flat&logo=python)
 ![PHP](https://img.shields.io/badge/PHP-111?style=flat&logo=php)
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-111?style=flat&logo=typescript)
 ![Kotlin](https://img.shields.io/badge/Kotlin-111?style=flat&logo=kotlin)
 
 ### Frontend & UI
@@ -28,9 +28,9 @@ Experienced full-stack engineer specializing in end-to-end product development. 
 ![CSS3](https://img.shields.io/badge/CSS3-111?style=flat&logo=css3)
 
 ### Backend & Frameworks
-![Node.js](https://img.shields.io/badge/Node.js-111?style=flat&logo=nodedotjs)
 ![Django](https://img.shields.io/badge/Django-111?style=flat&logo=django)
 ![Laravel](https://img.shields.io/badge/Laravel-111?style=flat&logo=laravel)
+![Node.js](https://img.shields.io/badge/Node.js-111?style=flat&logo=nodedotjs)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-111?style=flat&logo=swagger)
 
 ### Databases & Data
