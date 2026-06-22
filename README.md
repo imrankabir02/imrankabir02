@@ -1,138 +1,114 @@
-## Mridha Imran Kabir
-### 🚀 Product-Focused Full-Stack Engineer
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0ea5e9,50:7c3aed,100:f43f5e&text=MRIDHA%20IMRAN%20KABIR&fontColor=ffffff&fontSize=42&fontAlignY=36&desc=Product-Focused%20Full-Stack%20Engineer&descAlignY=58&animation=fadeIn" alt="3D style hero banner" />
+</p>
 
-**Building scalable web products with clean architecture, fast delivery, and modern engineering practices.**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=1000&lines=Building+Scalable+Products+with+3D+Energy;Clean+Architecture+%7C+Fast+Delivery+%7C+Real+Impact;Backend+Power+%2B+Frontend+Precision" alt="3D animated intro" />
+</p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+products+that+scale;Designing+clean+backend+systems;Crafting+fast+and+intuitive+UIs;Always+learning%2C+always+shipping" alt="Key skills: building scalable products, designing clean backend systems, crafting fast intuitive UIs, and continuous learning and shipping." />
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=imrankabir02&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile views" />
-</div>
-
----
-
-## 💼 Professional Summary
-
-<div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=900&color=22D3EE&vCenter=true&width=900&lines=End-to-end+product+development+mindset;Clean+architecture+with+business+impact;Pragmatic+delivery+in+fast-paced+teams" alt="Summary highlights: end-to-end product development, clean architecture, and pragmatic delivery." />
-</div>
-
-Experienced full-stack engineer specializing in end-to-end product development. Passionate about building robust backend systems, intuitive user interfaces, and seamless integrations. Known for clean code, pragmatic problem-solving, and delivering measurable results in fast-paced environments.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=imrankabir02&label=Profile%20Views&color=8b5cf6&style=for-the-badge" alt="Profile views" />
+</p>
 
 ---
 
-## 🛠️ Technical Expertise
+## 🧠 Professional Summary (3D Command Deck)
 
-<div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=800&color=60A5FA&vCenter=true&width=900&lines=Backend+systems+%7C+API+design+%7C+database+optimization;Frontend+interfaces+%7C+modern+frameworks+%7C+performance;Automation+and+engineering+productivity" alt="Technical focus: backend systems, frontend interfaces, APIs, databases, and automation." />
-</div>
+Experienced full-stack engineer focused on end-to-end product development. I build robust backend systems, intuitive UIs, and smooth integrations with a clean, pragmatic engineering approach that drives measurable product outcomes.
+
+---
+
+## 🛠️ Technical Expertise (3D Stack Blocks)
 
 ### Languages & Core Technologies
-![Python](https://img.shields.io/badge/Python-111?style=flat&logo=python)
-![PHP](https://img.shields.io/badge/PHP-111?style=flat&logo=php)
-![JavaScript](https://img.shields.io/badge/JavaScript-111?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-111?style=flat&logo=typescript)
-![Kotlin](https://img.shields.io/badge/Kotlin-111?style=flat&logo=kotlin)
+![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=38bdf8)
+![PHP](https://img.shields.io/badge/PHP-0f172a?style=for-the-badge&logo=php&logoColor=a78bfa)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=facc15)
+![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=60a5fa)
+![Kotlin](https://img.shields.io/badge/Kotlin-0f172a?style=for-the-badge&logo=kotlin&logoColor=f472b6)
 
 ### Frontend & UI
-![React](https://img.shields.io/badge/React-111?style=flat&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-111?style=flat&logo=typescript)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111?style=flat&logo=tailwindcss)
-![HTML5](https://img.shields.io/badge/HTML5-111?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-111?style=flat&logo=css3)
+![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=22d3ee)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8)
+![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=fb923c)
+![CSS3](https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=60a5fa)
 
 ### Backend & Frameworks
-![Django](https://img.shields.io/badge/Django-111?style=flat&logo=django)
-![Laravel](https://img.shields.io/badge/Laravel-111?style=flat&logo=laravel)
-![Node.js](https://img.shields.io/badge/Node.js-111?style=flat&logo=nodedotjs)
-![REST APIs](https://img.shields.io/badge/REST_APIs-111?style=flat&logo=swagger)
+![Django](https://img.shields.io/badge/Django-0f172a?style=for-the-badge&logo=django&logoColor=4ade80)
+![Laravel](https://img.shields.io/badge/Laravel-0f172a?style=for-the-badge&logo=laravel&logoColor=fb7185)
+![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=86efac)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0f172a?style=for-the-badge&logo=swagger&logoColor=22d3ee)
 
-### Databases & Data
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=flat&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-111?style=flat&logo=mysql)
-
-### Tools & DevOps
-![Git](https://img.shields.io/badge/Git-111?style=flat&logo=git)
-![Vercel](https://img.shields.io/badge/Vercel-111?style=flat&logo=vercel)
+### Databases & DevOps
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=93c5fd)
+![MySQL](https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=60a5fa)
+![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=f87171)
+![Vercel](https://img.shields.io/badge/Vercel-0f172a?style=for-the-badge&logo=vercel&logoColor=e2e8f0)
 
 ---
 
-## 🎯 Core Strengths
+## 🎯 Core Strengths (Holographic Grid)
 
-<div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2600&pause=850&color=A78BFA&vCenter=true&width=900&lines=Strategic+problem+solving+for+complex+products;Maintainable+code+quality+and+architecture;Execution+focus+from+design+to+delivery" alt="Core strengths: strategic problem solving, maintainable architecture, and delivery execution." />
-</div>
-
-| Expertise | Details |
-|-----------|---------|
-| **Full-Stack Development** | End-to-end product development from architecture to deployment |
-| **Backend Engineering** | API design, system architecture, database optimization, integrations |
-| **Frontend Development** | Responsive UI/UX, component-based architecture, modern frameworks |
-| **Problem Solving** | Strategic approach to complex technical challenges |
-| **Code Quality** | Clean architecture, maintainability, best practices |
-| **Automation** | Building tools and processes for efficient delivery |
+| Capability | 3D View |
+|---|---|
+| Full-Stack Development | End-to-end product execution from architecture to deployment |
+| Backend Engineering | API design, scalable services, integrations, and optimization |
+| Frontend Development | Responsive UX with modern component-driven architectures |
+| Problem Solving | Strategic execution for complex technical and product challenges |
+| Code Quality | Maintainable, clean architecture and engineering best practices |
+| Automation | Productivity tooling and streamlined engineering workflows |
 
 ---
 
-## 📚 Areas of Focus
+## 📚 Areas of Focus (Depth Mode)
 
-<div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=900&color=34D399&vCenter=true&width=900&lines=Scalable+full-stack+product+engineering;High-performance+backends+and+responsive+UIs;Integrations%2C+automation%2C+and+optimization" alt="Focus areas: scalable full-stack engineering, high-performance systems, integrations, and automation." />
-</div>
-
-- ✅ Full-stack product development with scalable architecture
+- ✅ Scalable full-stack product engineering
 - ✅ High-performance backend systems and APIs
-- ✅ Responsive, fast, and intuitive user interfaces
+- ✅ Fast, responsive, and intuitive user interfaces
 - ✅ Database design and optimization
 - ✅ System integrations and third-party APIs
-- ✅ Automation tools and engineering productivity
+- ✅ Automation and engineering productivity
 
 ---
 
-## 🤝 Open To
+## 🤝 Open To (Next Mission)
 
-<div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=900&color=F59E0B&vCenter=true&width=900&lines=Open+to+mid%2Fsenior+full-stack+ownership+roles;Backend-heavy+projects+with+strong+system+design;Collaborative+product+teams+and+technical+mentoring" alt="Open to mid/senior full-stack and backend-focused roles, product collaboration, and mentoring." />
-</div>
-
-- **Mid/Senior Full-Stack Engineer roles** with product ownership opportunities
-- **Backend-focused** engineering projects requiring solid system design
-- **Product collaborations** where technical expertise drives business value
-- **Mentoring & knowledge sharing** with engineering teams
-- **Innovative projects** leveraging modern web technologies
+- Mid/Senior full-stack roles with ownership
+- Backend-heavy projects requiring strong system design
+- Product teams where engineering drives business value
+- Mentoring, technical collaboration, and knowledge sharing
+- Innovative web products using modern technologies
 
 ---
 
-## 🎮 Interactive & Animated Corner
+## 🎮 Interactive 3D Activity Zone
 
-<details>
-  <summary><b>Click to explore live activity</b></summary>
-  <br/>
-  <div align="center">
-    <a href="https://github.com/imrankabir02" aria-label="View GitHub profile">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=imrankabir02&theme=github-dark&hide_border=true&bg_color=00000000" alt="GitHub activity graph for imrankabir02." />
-    </a>
-    <br/>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Inspirational developer quote." />
-  </div>
-</details>
+<p align="center">
+  <a href="https://github.com/imrankabir02" aria-label="View GitHub profile">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=imrankabir02&theme=tokyo-night&hide_border=true&bg_color=00000000" alt="GitHub activity graph" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Inspirational quote" />
+</p>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Statistics (3D Analytics Wall)
 
+<p align="center">
+  <a href="https://github.com/imrankabir02">
+    <img src="https://github-readme-stats.vercel.app/api?username=imrankabir02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  </a>
+  <a href="https://github.com/imrankabir02">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrankabir02&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=10" alt="Top languages" />
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=imrankabir02&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  </a>
+</p>
 
-
-<div align="center">
-  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
-    <a href="https://github.com/imrankabir02">
-      <img src="https://github-readme-stats.vercel.app/api?username=imrankabir02&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" style="max-width: 100%;"/>
-    </a>
-    <a href="https://github.com/imrankabir02">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrankabir02&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&langs_count=10" style="max-width: 100%;"/>
-    </a>
-    <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com?user=imrankabir02&theme=transparent&hide_border=true&exclude_days=Fri" alt="GitHub Streak" />
-    </a>
-  </div>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0ea5e9,50:7c3aed,100:f43f5e" alt="3D style footer banner" />
+</p>
