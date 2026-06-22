@@ -6,6 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=1000&lines=Building+Scalable+Products+with+Modern+Engineering;Clean+Architecture+%7C+Fast+Delivery+%7C+Real+Impact;Backend+Power+%2B+Frontend+Precision" alt="Animated typing text showcasing engineering focus and capabilities" style="max-width: 100%;" />
 </p>
 
+<p align="center"><sub>Static highlights: Scalable products · Clean architecture · Fast delivery · Backend + Frontend excellence</sub></p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=imrankabir02&label=Profile%20Views&color=8b5cf6&style=for-the-badge" alt="Profile views" />
 </p>
@@ -28,6 +30,7 @@ Experienced full-stack engineer focused on end-to-end product development. I bui
 ![Kotlin](https://img.shields.io/badge/Kotlin-0f172a?style=for-the-badge&logo=kotlin&logoColor=f472b6)
 
 ### Frontend & UI
+![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=60a5fa)
 ![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=22d3ee)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8)
 ![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=fb923c)
@@ -85,7 +88,7 @@ Experienced full-stack engineer focused on end-to-end product development. I bui
 
 <p align="center">
   <a href="https://github.com/imrankabir02" aria-label="View GitHub profile">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=imrankabir02&theme=tokyo-night&hide_border=true&bg_color=00000000" alt="GitHub contribution activity over time" style="max-width: 100%;" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=imrankabir02&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub contribution activity over time" style="max-width: 100%;" />
   </a>
 </p>
 
