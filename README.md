@@ -3,6 +3,12 @@
 
 **Building scalable web products with clean architecture, fast delivery, and modern engineering practices.**
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+products+that+scale;Designing+clean+backend+systems;Crafting+fast+and+intuitive+UIs;Always+learning%2C+always+shipping" alt="Animated typing intro" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=imrankabir02&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile views" />
+</div>
+
 ---
 
 ## 💼 Professional Summary
@@ -74,6 +80,22 @@ Experienced full-stack engineer specializing in end-to-end product development. 
 - **Product collaborations** where technical expertise drives business value
 - **Mentoring & knowledge sharing** with engineering teams
 - **Innovative projects** leveraging modern web technologies
+
+---
+
+## 🎮 Interactive & Animated Corner
+
+<details>
+  <summary><b>Click to explore live activity</b></summary>
+  <br/>
+  <div align="center">
+    <a href="https://github.com/imrankabir02">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=imrankabir02&theme=github-dark&hide_border=true&bg_color=00000000" alt="GitHub activity graph"/>
+    </a>
+    <br/>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic dev quote"/>
+  </div>
+</details>
 
 ---
 
