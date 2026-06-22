@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0ea5e9,50:7c3aed,100:f43f5e&text=MRIDHA%20IMRAN%20KABIR&fontColor=ffffff&fontSize=42&fontAlignY=36&desc=Product-Focused%20Full-Stack%20Engineer&descAlignY=58&animation=fadeIn" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0ea5e9,50:7c3aed,100:f43f5e&text=MRIDHA%20IMRAN%20KABIR&fontColor=ffffff&fontSize=42&fontAlignY=36&desc=Product-Focused%20Full-Stack%20Engineer&descAlignY=58&animation=fadeIn" alt="Mridha Imran Kabir - Product-Focused Full-Stack Engineer" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=1000&lines=Building+Scalable+Products+with+Modern+Engineering;Clean+Architecture+%7C+Fast+Delivery+%7C+Real+Impact;Backend+Power+%2B+Frontend+Precision" alt="Building Scalable Products with Modern Engineering; Clean Architecture, Fast Delivery, Real Impact; Backend Power plus Frontend Precision" style="max-width: 100%;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=1000&lines=Building+Scalable+Products+with+Modern+Engineering;Clean+Architecture+%7C+Fast+Delivery+%7C+Real+Impact;Backend+Power+%2B+Frontend+Precision" alt="Animated typing text showcasing engineering focus and capabilities" style="max-width: 100%;" />
 </p>
 
 <p align="center">
@@ -110,5 +110,5 @@ Experienced full-stack engineer focused on end-to-end product development. I bui
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0ea5e9,50:7c3aed,100:f43f5e" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0ea5e9,50:7c3aed,100:f43f5e" alt="Decorative footer wave graphic" />
 </p>
