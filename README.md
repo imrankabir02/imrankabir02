@@ -49,7 +49,7 @@ Experienced full-stack engineer focused on end-to-end product development. I bui
 
 ## 🎯 Core Strengths (Holographic Grid)
 
-| Capability | Details |
+| Strength | Details |
 |---|---|
 | Full-Stack Development | End-to-end product execution from architecture to deployment |
 | Backend Engineering | API design, scalable services, integrations, and optimization |
@@ -110,5 +110,5 @@ Experienced full-stack engineer focused on end-to-end product development. I bui
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0ea5e9,50:7c3aed,100:f43f5e" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0ea5e9,50:7c3aed,100:f43f5e" alt="" role="presentation" />
 </p>
