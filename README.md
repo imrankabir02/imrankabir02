@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=1000&lines=Building+Scalable+Products+with+Modern+Engineering;Clean+Architecture+%7C+Fast+Delivery+%7C+Real+Impact;Backend+Power+%2B+Frontend+Precision" alt="3D animated intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=1000&lines=Building+Scalable+Products+with+Modern+Engineering;Clean+Architecture+%7C+Fast+Delivery+%7C+Real+Impact;Backend+Power+%2B+Frontend+Precision" alt="3D animated intro" style="max-width: 100%;" />
 </p>
 
 <p align="center">
@@ -85,7 +85,7 @@ Experienced full-stack engineer focused on end-to-end product development. I bui
 
 <p align="center">
   <a href="https://github.com/imrankabir02" aria-label="View GitHub profile">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=imrankabir02&theme=tokyo-night&hide_border=true&bg_color=00000000" alt="GitHub activity graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=imrankabir02&theme=tokyo-night&hide_border=true&bg_color=00000000" alt="GitHub activity graph" width="900" height="300" style="max-width: 100%;" />
   </a>
 </p>
 
