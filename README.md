@@ -13,11 +13,19 @@
 
 ## 💼 Professional Summary
 
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=900&color=22D3EE&vCenter=true&width=900&lines=End-to-end+product+development+mindset;Clean+architecture+with+business+impact;Pragmatic+delivery+in+fast-paced+teams" alt="Summary highlights: end-to-end product development, clean architecture, and pragmatic delivery." />
+</div>
+
 Experienced full-stack engineer specializing in end-to-end product development. Passionate about building robust backend systems, intuitive user interfaces, and seamless integrations. Known for clean code, pragmatic problem-solving, and delivering measurable results in fast-paced environments.
 
 ---
 
 ## 🛠️ Technical Expertise
+
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=800&color=60A5FA&vCenter=true&width=900&lines=Backend+systems+%7C+API+design+%7C+database+optimization;Frontend+interfaces+%7C+modern+frameworks+%7C+performance;Automation+and+engineering+productivity" alt="Technical focus: backend systems, frontend interfaces, APIs, databases, and automation." />
+</div>
 
 ### Languages & Core Technologies
 ![Python](https://img.shields.io/badge/Python-111?style=flat&logo=python)
@@ -51,6 +59,10 @@ Experienced full-stack engineer specializing in end-to-end product development. 
 
 ## 🎯 Core Strengths
 
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2600&pause=850&color=A78BFA&vCenter=true&width=900&lines=Strategic+problem+solving+for+complex+products;Maintainable+code+quality+and+architecture;Execution+focus+from+design+to+delivery" alt="Core strengths: strategic problem solving, maintainable architecture, and delivery execution." />
+</div>
+
 | Expertise | Details |
 |-----------|---------|
 | **Full-Stack Development** | End-to-end product development from architecture to deployment |
@@ -64,6 +76,10 @@ Experienced full-stack engineer specializing in end-to-end product development. 
 
 ## 📚 Areas of Focus
 
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=900&color=34D399&vCenter=true&width=900&lines=Scalable+full-stack+product+engineering;High-performance+backends+and+responsive+UIs;Integrations%2C+automation%2C+and+optimization" alt="Focus areas: scalable full-stack engineering, high-performance systems, integrations, and automation." />
+</div>
+
 - ✅ Full-stack product development with scalable architecture
 - ✅ High-performance backend systems and APIs
 - ✅ Responsive, fast, and intuitive user interfaces
@@ -74,6 +90,10 @@ Experienced full-stack engineer specializing in end-to-end product development. 
 ---
 
 ## 🤝 Open To
+
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=900&color=F59E0B&vCenter=true&width=900&lines=Open+to+mid%2Fsenior+full-stack+ownership+roles;Backend-heavy+projects+with+strong+system+design;Collaborative+product+teams+and+technical+mentoring" alt="Open to mid/senior full-stack and backend-focused roles, product collaboration, and mentoring." />
+</div>
 
 - **Mid/Senior Full-Stack Engineer roles** with product ownership opportunities
 - **Backend-focused** engineering projects requiring solid system design
