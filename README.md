@@ -99,13 +99,13 @@ Experienced full-stack engineer focused on end-to-end product development. I bui
 
 <p align="center">
   <a href="https://github.com/imrankabir02">
-    <img src="https://github-readme-stats.vercel.app/api?username=imrankabir02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" alt="GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=imrankabir02&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" alt="GitHub stats" />
   </a>
   <a href="https://github.com/imrankabir02">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrankabir02&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=10" alt="Top languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrankabir02&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&langs_count=10" alt="Top languages" />
   </a>
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=imrankabir02&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+    <img src="https://streak-stats.demolab.com?user=imrankabir02&theme=transparent&hide_border=true&exclude_days=Fri" alt="GitHub streak" />
   </a>
 </p>
 
