@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0ea5e9,50:7c3aed,100:f43f5e&text=MRIDHA%20IMRAN%20KABIR&fontColor=ffffff&fontSize=42&fontAlignY=36&desc=Product-Focused%20Full-Stack%20Engineer&descAlignY=58&animation=fadeIn" alt="Profile header for Mridha Imran Kabir, Product-Focused Full-Stack Engineer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0ea5e9,50:7c3aed,100:f43f5e&text=MRIDHA%20IMRAN%20KABIR&fontColor=ffffff&fontSize=42&fontAlignY=36&desc=Product-Focused%20Full-Stack%20Engineer&descAlignY=58&animation=fadeIn" alt="" />
 </p>
 
 <p align="center">
@@ -85,7 +85,7 @@ Experienced full-stack engineer focused on end-to-end product development. I bui
 
 <p align="center">
   <a href="https://github.com/imrankabir02" aria-label="View GitHub profile">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=imrankabir02&theme=tokyo-night&hide_border=true&bg_color=00000000" alt="GitHub activity graph" style="max-width: 100%;" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=imrankabir02&theme=tokyo-night&hide_border=true&bg_color=00000000" alt="GitHub contribution activity over time" style="max-width: 100%;" />
   </a>
 </p>
 
@@ -110,5 +110,5 @@ Experienced full-stack engineer focused on end-to-end product development. I bui
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0ea5e9,50:7c3aed,100:f43f5e" alt="" role="presentation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0ea5e9,50:7c3aed,100:f43f5e" alt="" />
 </p>
