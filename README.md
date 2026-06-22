@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=1000&lines=Building+Scalable+Products+with+3D+Energy;Clean+Architecture+%7C+Fast+Delivery+%7C+Real+Impact;Backend+Power+%2B+Frontend+Precision" alt="3D animated intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=1000&lines=Building+Scalable+Products+with+Modern+Engineering;Clean+Architecture+%7C+Fast+Delivery+%7C+Real+Impact;Backend+Power+%2B+Frontend+Precision" alt="3D animated intro" />
 </p>
 
 <p align="center">
@@ -49,7 +49,7 @@ Experienced full-stack engineer focused on end-to-end product development. I bui
 
 ## 🎯 Core Strengths (Holographic Grid)
 
-| Capability | 3D View |
+| Capability | Details |
 |---|---|
 | Full-Stack Development | End-to-end product execution from architecture to deployment |
 | Backend Engineering | API design, scalable services, integrations, and optimization |
