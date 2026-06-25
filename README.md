@@ -1,147 +1,168 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=200&color=0:0a0a0a,100:0a0a0a&text=&fontColor=ffffff" alt="" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:1e1b4b,35:5b21b6,70:9333ea,100:f43f5e&text=MRIDHA%20IMRAN%20KABIR&fontColor=ffffff&fontSize=46&fontAlignY=34&desc=Backend%20Engineer%20%E2%80%94%20Django%20%2F%20Laravel%20%2F%20Systems%20at%20Scale&descAlignY=52&descSize=18&animation=fadeIn" alt="Mridha Imran Kabir banner" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=21&pause=1000&color=A78BFA&center=true&vCenter=true&width=900&height=40&lines=Production+Django+%2B+Laravel+systems+for+gov+%26+enterprise;Elasticsearch+%C2%B7+MSSQL+%C2%B7+PostgreSQL+%C2%B7+Docker+%C2%B7+nginx;Debugging+deep%3A+heap+leaks%2C+packet+loss%2C+silent+bugs" alt="Typing SVG"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=imrankabir02&label=PROFILE%20VIEWS&color=7c3aed&style=for-the-badge&abbreviated=true" alt="Profile views"/>
+<img src="https://img.shields.io/badge/STATUS-SHIPPING-22c55e?style=for-the-badge&labelColor=18181b" alt="Status"/>
+<img src="https://img.shields.io/badge/BASE-DHAKA%2C%20BD-f43f5e?style=for-the-badge&labelColor=18181b" alt="Location"/>
 
 </div>
 
 <br/>
 
-<pre>
-<b>imran@bifpcl</b>:~$ whoami
-<b>Mridha Imran Kabir</b> — Backend Engineer, Dhaka BD
+<div align="center">
+<img src="https://img.shields.io/badge/%E2%96%B2%E2%96%B2%E2%96%B2_LAYER_00_%E2%80%94_WHO%E2%80%99S_THIS%3F-18181b?style=for-the-badge&labelColor=000000" alt="Layer 00"/>
+</div>
 
-<b>imran@bifpcl</b>:~$ cat role.txt
-IT Engineer (contract) @ Bangladesh India Friendship Power Company
-Building Django/Laravel systems for government + enterprise platforms
+> IT Engineer (contract) at **Bangladesh India Friendship Power Company (BIFPCL)**. I build the unglamorous machinery underneath government and enterprise platforms — document routing that doesn't lose documents, sensor pipelines that don't lie about their own data, and procurement portals that survive an audit. Most of what I do is debugging something already in production. I write about that on LinkedIn under the banner **"ask how, not what."**
 
-<b>imran@bifpcl</b>:~$ cat philosophy.txt
-"Ask how, not what." — debugging is the job, not the interruption to it.
-</pre>
+<br/>
+
+<div align="center">
+<img src="https://img.shields.io/badge/%E2%96%B2%E2%96%B2%E2%96%B2_LAYER_01_%E2%80%94_STACK-18181b?style=for-the-badge&labelColor=000000" alt="Layer 01"/>
+</div>
 
 <div align="center">
 
-[![Profile](https://img.shields.io/badge/profile-imrankabir02-3b82f6?style=flat-square&logo=github&logoColor=white&labelColor=0a0a0a)](https://github.com/imrankabir02)
-[![Location](https://img.shields.io/badge/based%20in-Dhaka%2C%20Bangladesh-3b82f6?style=flat-square&logo=mapbox&logoColor=white&labelColor=0a0a0a)](#)
-[![Status](https://img.shields.io/badge/status-shipping-22c55e?style=flat-square&labelColor=0a0a0a)](#)
+<sub><b>CORE</b></sub><br/>
+<img src="https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=38bdf8&labelColor=18181b"/>
+<img src="https://img.shields.io/badge/PHP-0a0a0a?style=for-the-badge&logo=php&logoColor=a78bfa&labelColor=18181b"/>
+<img src="https://img.shields.io/badge/Django-0a0a0a?style=for-the-badge&logo=django&logoColor=4ade80&labelColor=18181b"/>
+<img src="https://img.shields.io/badge/Laravel-0a0a0a?style=for-the-badge&logo=laravel&logoColor=fb7185&labelColor=18181b"/>
+
+<br/><sub><b>DATA &amp; INFRA</b></sub><br/>
+<img src="https://img.shields.io/badge/MSSQL-0a0a0a?style=for-the-badge&logo=microsoftsqlserver&logoColor=93c5fd&labelColor=18181b"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0a0a0a?style=for-the-badge&logo=postgresql&logoColor=60a5fa&labelColor=18181b"/>
+<img src="https://img.shields.io/badge/Redis-0a0a0a?style=for-the-badge&logo=redis&logoColor=f87171&labelColor=18181b"/>
+<img src="https://img.shields.io/badge/Elasticsearch-0a0a0a?style=for-the-badge&logo=elasticsearch&logoColor=fbbf24&labelColor=18181b"/>
+<img src="https://img.shields.io/badge/Docker-0a0a0a?style=for-the-badge&logo=docker&logoColor=22d3ee&labelColor=18181b"/>
+<img src="https://img.shields.io/badge/nginx-0a0a0a?style=for-the-badge&logo=nginx&logoColor=4ade80&labelColor=18181b"/>
+<img src="https://img.shields.io/badge/AWS-0a0a0a?style=for-the-badge&logo=amazonaws&logoColor=fb923c&labelColor=18181b"/>
+
+<br/><sub><b>FRONTEND &amp; TOOLING</b></sub><br/>
+<img src="https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=facc15&labelColor=18181b"/>
+<img src="https://img.shields.io/badge/HTMX-0a0a0a?style=for-the-badge&logo=htmx&logoColor=3b82f6&labelColor=18181b"/>
+<img src="https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=22d3ee&labelColor=18181b"/>
+<img src="https://img.shields.io/badge/Chart.js-0a0a0a?style=for-the-badge&logo=chartdotjs&logoColor=f472b6&labelColor=18181b"/>
+<img src="https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=f87171&labelColor=18181b"/>
+<img src="https://img.shields.io/badge/GitLab%20CI-0a0a0a?style=for-the-badge&logo=gitlab&logoColor=fb923c&labelColor=18181b"/>
 
 </div>
 
 <br/>
 
-## `$` now
+<div align="center">
+<img src="https://img.shields.io/badge/%E2%96%B2%E2%96%B2%E2%96%B2_LAYER_02_%E2%80%94_SYSTEMS_BUILT-18181b?style=for-the-badge&labelColor=000000" alt="Layer 02"/>
+</div>
 
-Actively debugging **CloudHub** — a containerized Django/Elasticsearch/nginx/syslog-ng stack — through three layered issues at once: Elasticsearch heap & fielddata pressure, slow query optimization, and a ~91% UDP syslog packet drop in production.
-
-<br/>
-
-## `$` stack
-
-**Languages**
-<br/>
-![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=3776AB&labelColor=0a0a0a)
-![PHP](https://img.shields.io/badge/PHP-0a0a0a?style=flat-square&logo=php&logoColor=777BB4&labelColor=0a0a0a)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=0a0a0a)
-![SQL](https://img.shields.io/badge/SQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=4169E1&labelColor=0a0a0a)
-
-**Backend**
-<br/>
-![Django](https://img.shields.io/badge/Django-0a0a0a?style=flat-square&logo=django&logoColor=092E20&labelColor=0a0a0a)
-![Laravel](https://img.shields.io/badge/Laravel-0a0a0a?style=flat-square&logo=laravel&logoColor=FF2D20&labelColor=0a0a0a)
-![Celery](https://img.shields.io/badge/Celery-0a0a0a?style=flat-square&logo=celery&logoColor=37814A&labelColor=0a0a0a)
-![HTMX](https://img.shields.io/badge/HTMX-0a0a0a?style=flat-square&logo=htmx&logoColor=3D72D7&labelColor=0a0a0a)
-
-**Data & infra**
-<br/>
-![MSSQL](https://img.shields.io/badge/MSSQL-0a0a0a?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927&labelColor=0a0a0a)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=4169E1&labelColor=0a0a0a)
-![Redis](https://img.shields.io/badge/Redis-0a0a0a?style=flat-square&logo=redis&logoColor=DC382D&labelColor=0a0a0a)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-0a0a0a?style=flat-square&logo=elasticsearch&logoColor=005571&labelColor=0a0a0a)
-![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=flat-square&logo=docker&logoColor=2496ED&labelColor=0a0a0a)
-![nginx](https://img.shields.io/badge/nginx-0a0a0a?style=flat-square&logo=nginx&logoColor=009639&labelColor=0a0a0a)
-![AWS](https://img.shields.io/badge/AWS-0a0a0a?style=flat-square&logo=amazonaws&logoColor=FF9900&labelColor=0a0a0a)
-
-**Tooling**
-<br/>
-![Git](https://img.shields.io/badge/Git-0a0a0a?style=flat-square&logo=git&logoColor=F05032&labelColor=0a0a0a)
-![GitLab CI](https://img.shields.io/badge/GitLab%20CI-0a0a0a?style=flat-square&logo=gitlab&logoColor=FC6D26&labelColor=0a0a0a)
-![Gunicorn](https://img.shields.io/badge/Gunicorn-0a0a0a?style=flat-square&logo=gunicorn&logoColor=499848&labelColor=0a0a0a)
-![React](https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=61DAFB&labelColor=0a0a0a)
-
-<br/>
-
-## `$` systems shipped
-
-<table>
+<table width="100%">
 <tr>
-<th width="32%" align="left">system</th>
-<th align="left">problem it solves</th>
-<th width="28%" align="left">stack</th>
+<td width="50%" valign="top">
+
+### 🌫️ Air Quality Monitoring System
+**Django · MSSQL · Celery · HTMX · Chart.js**
+Sensor data pipeline for environmental compliance — QC filtering, freeze detection, role-based access, aggregated readings across monitoring stations.
+
+</td>
+<td width="50%" valign="top">
+
+### 🏗️ Vendor Procurement Portal
+**Django · Custom CSS design system**
+Multi-step vendor registration and tender application flow. Navy/gold palette, Playfair Display + DM Sans — built for institutional trust.
+
+</td>
 </tr>
 <tr>
-<td><b>Air Quality Monitoring System</b></td>
-<td>Environmental sensor data is noisy and sensors silently fail. Built QC filtering, freeze detection, and role-based aggregated reporting so compliance numbers can be trusted.</td>
-<td><sub>Django · MSSQL · Celery · HTMX · Chart.js</sub></td>
+<td width="50%" valign="top">
+
+### 📂 Doctrack — Document Routing
+**Django**
+Diagnosed and fixed multiple bugs causing documents to silently vanish mid-forwarding in a government document tracking system.
+
+</td>
+<td width="50%" valign="top">
+
+### 🪪 NID/Passport Identity Validator
+**Python · React · Claude Vision API**
+Mobile-first identity document comparison tool, built for Android browser constraints.
+
+</td>
 </tr>
 <tr>
-<td><b>Vendor Procurement Portal</b></td>
-<td>Multi-step vendor registration and tender application for an institutional buyer — designed and built with a custom navy/gold UI system for audit-grade trust.</td>
-<td><sub>Django · Custom CSS design system</sub></td>
-</tr>
-<tr>
-<td><b>Doctrack</b></td>
-<td>Government documents were disappearing mid-forwarding. Traced and fixed multiple silent failure points in the routing logic.</td>
-<td><sub>Django</sub></td>
-</tr>
-<tr>
-<td><b>Identity Validator</b></td>
-<td>NID/passport comparison tool built around Claude's Vision API, constrained for real-world Android browser use.</td>
-<td><sub>Python · React · Claude Vision API</sub></td>
-</tr>
-<tr>
-<td><b>CloudHub Ops</b></td>
-<td>Production containerized platform under load — currently resolving ES heap pressure, slow queries, and syslog packet loss.</td>
-<td><sub>Django · Elasticsearch · nginx · syslog-ng</sub></td>
-</tr>
-<tr>
-<td><b>Django Staging Pipeline</b></td>
-<td>Push-to-running-process CI/CD for staging environments, no manual deploy steps.</td>
-<td><sub>GitLab CI · Gunicorn · Supervisor · nginx</sub></td>
+<td width="50%" valign="top">
+
+### ⚙️ CloudHub Platform Ops
+**Django · Elasticsearch · nginx · syslog-ng · Docker Compose**
+Currently hunting heap/fielddata pressure, slow-query bottlenecks, and a ~91% UDP syslog packet drop in a live containerized stack.
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 GitLab CI/CD for Django Staging
+**Shell executor · Gunicorn · Supervisor · nginx**
+End-to-end staging deploy pipeline, from push to running process.
+
+</td>
 </tr>
 </table>
 
 <br/>
 
-## `$` signature work
+<div align="center">
+<img src="https://img.shields.io/badge/%E2%96%B2%E2%96%B2%E2%96%B2_LAYER_03_%E2%80%94_SIGNATURE_PROJECTS-18181b?style=for-the-badge&labelColor=000000" alt="Layer 03"/>
+</div>
 
 <div align="center">
 
-[![Maitree](https://img.shields.io/badge/Maitree-7--module%20enterprise%20platform-0a0a0a?style=for-the-badge&labelColor=171717&color=3b82f6)](#)
-[![E-Nothi](https://img.shields.io/badge/E--Nothi%203.0-document%20routing-0a0a0a?style=for-the-badge&labelColor=171717&color=3b82f6)](#)
-[![BanglaHealth](https://img.shields.io/badge/BanglaHealth%203.0-EHR%20platform-0a0a0a?style=for-the-badge&labelColor=171717&color=3b82f6)](#)
+<img src="https://img.shields.io/badge/MAITREE-7%20Module%20Enterprise%20Platform-1e1b4b?style=for-the-badge&labelColor=4c1d95"/>
+<img src="https://img.shields.io/badge/E--NOTHI%203.0-Document%20Routing-1e1b4b?style=for-the-badge&labelColor=4c1d95"/>
+<img src="https://img.shields.io/badge/BANGLAHEALTH%203.0-EHR%20Platform-1e1b4b?style=for-the-badge&labelColor=4c1d95"/>
 
 </div>
 
 <br/>
 
-## `$` metrics
+<div align="center">
+<img src="https://img.shields.io/badge/%E2%96%B2%E2%96%B2%E2%96%B2_LAYER_04_%E2%80%94_ACTIVITY-18181b?style=for-the-badge&labelColor=000000" alt="Layer 04"/>
+</div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=imrankabir02&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=3b82f6&icon_color=3b82f6&text_color=cccccc&include_all_commits=true&count_private=true" alt="GitHub stats" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrankabir02&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=3b82f6&text_color=cccccc&langs_count=8" alt="Top languages" width="38%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=imrankabir02&theme=tokyo-night&hide_border=true&bg_color=00000000&area=true" alt="Activity graph" width="100%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=imrankabir02&theme=dark&hide_border=true&background=0A0A0A&stroke=0A0A0A&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="Streak" width="60%"/>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=imrankabir02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" alt="GitHub stats" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrankabir02&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=10" alt="Top languages" width="38%"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=imrankabir02&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub streak" width="60%"/>
 
 </div>
 
 <br/>
 
-## `$` open to
+<div align="center">
+<img src="https://img.shields.io/badge/%E2%96%B2%E2%96%B2%E2%96%B2_LAYER_05_%E2%80%94_OPEN_TO-18181b?style=for-the-badge&labelColor=000000" alt="Layer 05"/>
+</div>
 
-`backend roles with real system-design ownership` &nbsp;·&nbsp; `Django/Laravel contracts — gov or enterprise` &nbsp;·&nbsp; `causal AI / LLM reliability collabs` &nbsp;·&nbsp; `mentoring & technical writing`
+<div align="center">
+
+`Backend-heavy roles with real system design ownership` · `Django/Laravel contracts, enterprise or gov` · `Mentoring & technical writing` · `Causal AI / LLM reliability research collabs`
+
+</div>
 
 <br/>
 
 <div align="center">
-<sub>ask how, not what.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:1e1b4b,35:5b21b6,70:9333ea,100:f43f5e" alt="Footer"/>
+
+<sub>Ask how, not what.</sub>
+
 </div>
