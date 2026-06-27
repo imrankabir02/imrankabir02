@@ -8,7 +8,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=imrankabir02&label=PROFILE%20VIEWS&color=7c3aed&style=for-the-badge&abbreviated=true" alt="Profile views"/>
 <img src="https://img.shields.io/badge/STATUS-SHIPPING-22c55e?style=for-the-badge&labelColor=18181b" alt="Status"/>
-<img src="https://img.shields.io/badge/BASE-DHAKA%2C%20BD-f43f5e?style=for-the-badge&labelColor=18181b" alt="Location"/>
+<img src="https://img.shields.io/badge/BASE-KHULNA%2C%20BD-f43f5e?style=for-the-badge&labelColor=18181b" alt="Location"/>
 
 </div>
 
