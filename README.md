@@ -257,8 +257,9 @@ aggregation. Honest status: the domain modelling is done, the test suite is not.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=imrankabir02&show_icons=true&hide_border=true&theme=transparent&title_color=58a6ff&icon_color=58a6ff&include_all_commits=true&count_private=true&hide_title=true" alt="GitHub stats" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrankabir02&layout=compact&hide_border=true&theme=transparent&title_color=58a6ff&langs_count=8" alt="Top languages" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=imrankabir02&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="160" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrankabir02&layout=compact&hide_border=true&langs_count=8" height="160" />
 
 </div>
 
@@ -269,6 +270,6 @@ aggregation. Honest status: the domain modelling is done, the test suite is not.
 Several of the systems above are private — I'm happy to walk through the architecture and the
 tradeoffs on a call.
 
-**[imrankabir325@gmail.com](mailto:imrankabir325@gmail.com)** · Bagerhat, Bangladesh
+**[imrankabir325@gmail.com](mailto:imrankabir325@gmail.com)** · Khulna, Bangladesh
 
 </div>
