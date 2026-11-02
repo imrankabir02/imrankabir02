@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Mridha%20Imran%20Kabir&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Backend%20Engineer%20%E2%80%94%20Django%20%C2%B7%20FastAPI%20%C2%B7%20Laravel&descSize=16" width="100%"/>
+<img src="https://raw.githubusercontent.com/imrankabir02/imrankabir02/main/assets/banner.png" width="100%" alt="Mridha Imran Kabir — Backend Engineer"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=I+build+backend+systems+that+survive+production;PostgreSQL+is+my+home+turf;Open+to+full-time+remote+roles" alt="I build backend systems that survive production"/>
@@ -21,8 +21,10 @@
 <h2 align="center">📌 Featured projects</h2>
 
 <p align="center">
-  <a href="https://github.com/imrankabir02/ReliableBackgroundImportSystem"><img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=imrankabir02&repo=ReliableBackgroundImportSystem&theme=github_dark" alt="Reliable Background Import System"/></a>
-  <a href="https://github.com/imrankabir02/chess-timer"><img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=imrankabir02&repo=chess-timer&theme=github_dark" alt="Chess Timer — full chess engine in Kotlin"/></a>
+    <a href="https://github.com/imrankabir02/ReliableBackgroundImportSystem"><img src="https://raw.githubusercontent.com/imrankabir02/imrankabir02/main/assets/card-import.png" width="98%" alt="Reliable Background Import System — featured project"/></a>
+</p>
+<p align="center">
+    <a href="https://github.com/imrankabir02/chess-timer"><img src="https://raw.githubusercontent.com/imrankabir02/imrankabir02/main/assets/card-chess.png" width="98%" alt="Chess Timer — a complete chess engine in Kotlin"/></a>
 </p>
 <p align="center">📊 <a href="https://doi.org/10.5281/zenodo.21783853"><b>Bangladesh Electricity Demand Dataset</b></a> — 2,469 days of national load data, DOI-archived</p> <p align="center">🏭 <a href="https://imrankabir02.github.io/"><b>Production systems — CloudHR, the BIFPCL platform &amp; more</b></a> — presented on my portfolio (the code is private)</p>
 
