@@ -66,7 +66,7 @@
 
 ---
 
-<details>
+<details> <summary><b>📈 Full GitHub metrics</b></summary> <br/> <p align="center"> <img src="https://raw.githubusercontent.com/imrankabir02/imrankabir02/main/github-metrics.svg" width="98%" alt="GitHub metrics"/> </p> </details> <details>
 <summary><b>🏭 Production work — the short version</b></summary>
 
 <br/>
