@@ -24,10 +24,7 @@
   <a href="https://github.com/imrankabir02/ReliableBackgroundImportSystem"><img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=imrankabir02&repo=ReliableBackgroundImportSystem&theme=github_dark" alt="Reliable Background Import System"/></a>
   <a href="https://github.com/imrankabir02/chess-timer"><img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=imrankabir02&repo=chess-timer&theme=github_dark" alt="Chess Timer — full chess engine in Kotlin"/></a>
 </p>
-<p align="center">
-  <a href="https://github.com/imrankabir02/EngineeringAtlas"><img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=imrankabir02&repo=EngineeringAtlas&theme=github_dark" alt="Engineering Atlas"/></a>
-  <a href="https://github.com/imrankabir02/imrankabir02.github.io"><img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=imrankabir02&repo=imrankabir02.github.io&theme=github_dark" alt="Portfolio site"/></a>
-</p>
+<p align="center">📊 <a href="https://doi.org/10.5281/zenodo.21783853"><b>Bangladesh Electricity Demand Dataset</b></a> — 2,469 days of national load data, DOI-archived</p> <p align="center">🏭 <a href="https://imrankabir02.github.io/"><b>Production systems — CloudHR, the BIFPCL platform &amp; more</b></a> — presented on my portfolio (the code is private)</p>
 
 ---
 
@@ -58,9 +55,7 @@
   <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imrankabir02&theme=github_dark" alt="Profile details"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/imrankabir02/imrankabir02/main/profile-3d-contrib/profile-night-rainbow.svg" width="98%" alt="3D contribution graph"/>
-</p>
+
 
 <p align="center">
   <picture>
