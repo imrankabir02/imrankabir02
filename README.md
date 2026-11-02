@@ -1,14 +1,19 @@
 <div align="center">
 
-# Mridha Imran Kabir
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=170&section=header&text=Mridha%20Imran%20Kabir&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Engineer%20%E2%80%94%20Django%20%C2%B7%20FastAPI%20%C2%B7%20Laravel&descAlignY=56&descSize=17" width="100%" alt="Mridha Imran Kabir — Backend Engineer"/>
 
-**Backend Engineer** — Django · Laravel · FastAPI
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Slow+queries%2C+made+fast.;Jobs+that+survive+bad+input.;Tenant+data+the+database+itself+protects.;Systems+that+tell+you+when+they+break." alt="Slow queries made fast. Jobs that survive bad input. Tenant data the database itself protects. Systems that tell you when they break."/>
 
 <p>
 <img src="https://img.shields.io/badge/IT_Engineer-BIFPCL-0d1117?style=flat-square&labelColor=0d1117&color=161b22" alt="IT Engineer at BIFPCL"/>
 <img src="https://img.shields.io/badge/Lead_Backend-CloudHub-0d1117?style=flat-square&labelColor=0d1117&color=161b22" alt="Lead Backend Engineer at CloudHub"/>
-<img src="https://img.shields.io/badge/Bagerhat-Bangladesh-0d1117?style=flat-square&labelColor=0d1117&color=161b22" alt="Bagerhat, Bangladesh"/>
+<img src="https://img.shields.io/badge/Khulna-Bangladesh-0d1117?style=flat-square&labelColor=0d1117&color=161b22" alt="Khulna, Bangladesh"/>
 <a href="mailto:imrankabir325@gmail.com"><img src="https://img.shields.io/badge/imrankabir325@gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=ea4335&labelColor=0d1117&color=161b22" alt="Email"/></a>
+</p>
+
+<p>
+<a href="https://imrankabir02.github.io/"><img src="https://img.shields.io/badge/Portfolio-imrankabir02.github.io-1f6feb?style=for-the-badge" alt="Portfolio"/></a>
+<img src="https://img.shields.io/badge/Open_to-Full--time_remote_roles-2ea043?style=for-the-badge" alt="Open to full-time remote roles"/>
 </p>
 
 </div>
@@ -27,6 +32,14 @@ pipelines — from schema design through migration, deployment, and the Linux bo
 `Multi-tenant data isolation` · `Workflow & state machines` · `Schema design & migrations` ·
 `Deployment & CI/CD`
 
+## Right now — November 2026
+
+- **Main role:** IT Engineer at **BIFPCL** — sole author of a large Django operations platform (80+ models), in production and still shipping.
+- **Side contract:** Lead Backend Engineer at **CloudHub** — multi-tenant SaaS on FastAPI + PostgreSQL — concluding this month.
+- **Latest release:** the [Bangladesh Electricity Demand Dataset](https://doi.org/10.5281/zenodo.21783853) — 2,469 days of national demand, generation and load-shedding data rebuilt from public PDFs, published with a DOI.
+- **Making:** *What Happens When* — a 60-second explainer series on how backend systems actually work, from login flows to background imports.
+- **Looking for:** one full-time remote backend role to join exclusively. If you are hiring for Django / FastAPI + PostgreSQL, the fastest tour of my work is my [portfolio](https://imrankabir02.github.io/).
+
 ## Stack
 
 <table>
@@ -36,6 +49,7 @@ pipelines — from schema design through migration, deployment, and the Linux bo
 <img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=3776ab" alt="Python"/>
 <img src="https://img.shields.io/badge/PHP-161b22?style=flat-square&logo=php&logoColor=777bb4" alt="PHP"/>
 <img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=f7df1e" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=3178c6" alt="TypeScript"/>
 </td>
 </tr>
 <tr>
@@ -54,6 +68,8 @@ pipelines — from schema design through migration, deployment, and the Linux bo
 <img src="https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=4169e1" alt="PostgreSQL"/>
 <img src="https://img.shields.io/badge/MSSQL-161b22?style=flat-square&logo=microsoftsqlserver&logoColor=cc2927" alt="MSSQL"/>
 <img src="https://img.shields.io/badge/Redis-161b22?style=flat-square&logo=redis&logoColor=ff4438" alt="Redis"/>
+<img src="https://img.shields.io/badge/PostGIS-161b22?style=flat-square&logo=postgresql&logoColor=4169e1" alt="PostGIS"/>
+<img src="https://img.shields.io/badge/TimescaleDB-161b22?style=flat-square&logo=timescale&logoColor=fdb515" alt="TimescaleDB"/>
 </td>
 </tr>
 <tr>
@@ -72,7 +88,7 @@ pipelines — from schema design through migration, deployment, and the Linux bo
 ## Experience
 
 ### Backend Engineer (Contract) — CloudHub
-<sub>**July 2026 — Present** · Lead backend author</sub>
+<sub>**July 2026 — Present** · Lead backend author · Contract concluding November 2026</sub>
 
 **I own the backend architecture and the design docs that justify it.**
 Lead backend author on a multi-tenant B2B SaaS platform. Tenant isolation is enforced in the
@@ -175,6 +191,20 @@ views or models.
 
 <sub>`Django` · `Services Layer` · `UBAC` · `Tailwind` · `Bootstrap`</sub>
 
+### Bangladesh Electricity Demand Dataset
+<sub>Solo — **Published** — [DOI 10.5281/zenodo.21783853](https://doi.org/10.5281/zenodo.21783853)</sub>
+
+**Public PDFs with no API, turned into tidy tables that check themselves.**
+Daily electricity demand, generation and load-shedding data for Bangladesh, reconstructed from
+the PDF reports BPDB and NLDC publish with no bulk download and no API — tidy CSVs at system,
+zone, power-station and substation level, 2019 to 2026.
+
+- Resume-safe scrapers: re-running fills gaps instead of starting over
+- Extraction validated against identities the source itself must satisfy, not plausibility rules
+- Versioned release with a DOI and citation file, with ERA5 weather and BPDB's own forecasts alongside
+
+<sub>`Python` · `PDF extraction` · `Scrapers` · `ERA5` · `Zenodo`</sub>
+
 ### Reliable Background Import System
 <sub>Solo — **Private repo** — 54 tests / 189 assertions</sub>
 
@@ -244,6 +274,43 @@ aggregation. Honest status: the domain modelling is done, the test suite is not.
 
 </td>
 </tr>
+<tr>
+<td width="33%" valign="top">
+
+**WPOS — Warehouse & POS**<br/>
+<sub>Solo — **In development**</sub>
+
+An on-premise warehouse and point-of-sale system that still can't run without a signed
+licence: Ed25519 licence tokens issued by a hosted central system, with a shared licence-core
+package holding the token format, fingerprinting and state machine for both sides.
+
+<sub>`NestJS` · `React` · `Prisma` · `Ed25519`</sub>
+
+</td>
+<td width="33%" valign="top">
+
+**Income & Expense App**<br/>
+<sub>Solo — **In active development**</sub>
+
+A personal-finance app I'm building in Flutter — voice-entered expenses, a help & guide flow,
+and accessibility and performance passes. The unglamorous parts get the same care: data checks
+and failure handling before new features.
+
+<sub>`Flutter` · `Dart`</sub>
+
+</td>
+<td width="33%" valign="top">
+
+**[All 19 systems →](https://imrankabir02.github.io/)**<br/>
+<sub>Portfolio</sub>
+
+The full list — every system above plus the rest, with the problem, the decision and the
+tradeoff for each — lives on my portfolio site.
+
+<sub>[imrankabir02.github.io](https://imrankabir02.github.io/)</sub>
+
+</td>
+</tr>
 </table>
 
 ## Education
@@ -261,6 +328,8 @@ aggregation. Honest status: the domain modelling is done, the test suite is not.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrankabir02&layout=compact&hide_border=true&langs_count=8" height="160" />
 
+<img src="https://streak-stats.demolab.com?user=imrankabir02&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="160" alt="GitHub streak"/>
+
 </div>
 
 ---
@@ -270,6 +339,8 @@ aggregation. Honest status: the domain modelling is done, the test suite is not.
 Several of the systems above are private — I'm happy to walk through the architecture and the
 tradeoffs on a call.
 
-**[imrankabir325@gmail.com](mailto:imrankabir325@gmail.com)** · Khulna, Bangladesh
+**[imrankabir325@gmail.com](mailto:imrankabir325@gmail.com)** · **[Portfolio](https://imrankabir02.github.io/)** · Khulna, Bangladesh
+
+<img src="https://komarev.com/ghpvc/?username=imrankabir02&label=Profile%20views&color=58a6ff&style=flat-square" alt="Profile views"/>
 
 </div>
